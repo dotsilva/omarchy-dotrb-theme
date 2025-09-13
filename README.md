@@ -1,6 +1,6 @@
 # dotrb
 
-<img width="1921" height="1081" alt="screenshot-2025-09-12_17-52-57" src="https://github.com/user-attachments/assets/6550c376-2f56-4f08-b35f-782707828ef7" />
+<img width="1921" height="1081" alt="screenshot-2025-09-12_21-02-18" src="https://github.com/user-attachments/assets/1527f6fe-7cf2-428a-a8a7-99dc2c04117f" />
 
 An opinionated Omarchy theme featuring Ruby language references in backgrounds and color and heavily inspired in the ashen theme (neovim)
 
