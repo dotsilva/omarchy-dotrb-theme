@@ -5,14 +5,10 @@
 An opinionated Omarchy theme featuring Ruby language references in backgrounds and color and heavily inspired in the ashen theme (neovim)
 
 # Featuring:
-Left side waybar (we must thanks adsovetzky for this awesome waybar);
+Left side waybar [thanks to adsovetzky](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar);
 
 Abosolutely NO GAPS and NO ROUNDED! We want every pixel of the screen;
 
 Red, light red, light pink, dark gray and light gray color palette;
 
-Also thanks to Omarchist app developer, whom made possible for me to easily make this theme through his awesome app (https://github.com/tahayvr/omarchist)
-
-# Waybar
-
-https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar
+Also thanks to [tahayvr](https://github.com/tahayvr/omarchist), whom made possible for me to easily make this theme through his awesome Omarchist app;
