@@ -2,7 +2,6 @@
 
 <img width="1921" height="1080" alt="screenshot-2025-09-14_02-17-01" src="https://github.com/user-attachments/assets/4392885c-6423-48bf-a54a-3fb13bee2b44" />
 
-
 An opinionated Omarchy theme featuring Ruby language references in backgrounds and color and heavily inspired in the ashen theme (neovim)
 
 # Featuring:
