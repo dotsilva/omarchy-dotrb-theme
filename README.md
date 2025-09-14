@@ -7,7 +7,7 @@ An opinionated Omarchy theme featuring Ruby language references in backgrounds a
 # Featuring:
 Left side waybar [thanks to adsovetzky](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar);
 
-Abosolutely NO GAPS and NO ROUNDED! We want every pixel of the screen;
+1 to border size and 1 to gaps in, just the minimal to help differentiate the windows! We want every pixel of the screen;
 
 Red, light red, light pink, dark gray and light gray color palette;
 
