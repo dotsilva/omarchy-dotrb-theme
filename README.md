@@ -16,4 +16,10 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
 
 Red, light red, light pink, dark gray and light gray color palette;
 
+# Extras
+
+You can install the waybar in preview [here, its the 1.5 version](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar)
+
+# Thanks
+
 Also thanks to [tahayvr](https://github.com/tahayvr/omarchist), whom made possible for me to easily make this theme through his awesome Omarchist app;
