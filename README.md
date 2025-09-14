@@ -4,6 +4,12 @@
 
 An opinionated Omarchy theme featuring Ruby language references in backgrounds and color and heavily inspired in the ashen theme (neovim)
 
+# Install
+
+```
+omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
+```
+
 # Featuring:
 Left side waybar [thanks to adsovetzky](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar);
 
