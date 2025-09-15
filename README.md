@@ -20,6 +20,8 @@ Red, light red, light pink, dark gray and light gray color palette.
 
 You can install the waybar that is in the preview [here, its the 1.5 version](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar).
 
+There is a blue version: [bluedotrb](https://github.com/dotsilva/omarchy-bluedotrb-theme)
+
 # Thanks
 
 Thanks to [tahayvr](https://github.com/tahayvr/omarchist), whom made possible for me to easily make this theme through his awesome Omarchist app.
