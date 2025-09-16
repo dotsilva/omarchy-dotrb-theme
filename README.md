@@ -12,7 +12,7 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
 
 # Featuring
 
-1 to border size and 1 to gaps in, just the minimal to help differentiate the windows! We want every pixel of the screen.
+Minimal borders and border radius to increase screen use efficiency.
 
 Red, light red, light pink, dark gray and light gray color palette.
 
