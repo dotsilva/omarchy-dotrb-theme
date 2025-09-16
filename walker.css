@@ -11,11 +11,6 @@
 @define-color foreground #e1e1e1;
 @define-color background #1a1a1a;
 
-#window {background: @background
-  background: @background
-  border-radius: 4px;
-}
-
 #window {
   border-radius: 4px;
 }
