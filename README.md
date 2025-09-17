@@ -1,8 +1,9 @@
 # dotrb
 
-<img width="1921" height="1080" alt="screenshot-2025-09-14_02-17-01" src="https://github.com/user-attachments/assets/4392885c-6423-48bf-a54a-3fb13bee2b44" />
+<img width="1921" height="1081" alt="preview" src="https://github.com/user-attachments/assets/8f0218ce-13d8-44e7-9ce5-d7674243d42b" />
 
-An Omarchy theme featuring Ruby language references in backgrounds and colors.
+
+An Omarchy theme featuring Ruby language references, heavily inspired in [ashen neovim theme](https://github.com/ficd0/ashen.nvim?tab=readme-ov-file#extras)
 
 # Install
 
@@ -14,7 +15,7 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
 
 Minimal borders and border radius to increase screen use efficiency.
 
-Red, light red, light pink, dark gray and light gray color palette.
+Red, orange, oil blue, dark gray and light gray color palette.
 
 # Extras
 
@@ -22,6 +23,7 @@ You can install the waybar that is in the preview [here, its the 1.5 version](ht
 
 There is a blue version: [bluedotrb](https://github.com/dotsilva/omarchy-bluedotrb-theme)
 
-# Thanks
+# Credits
 
 Thanks to [tahayvr](https://github.com/tahayvr/omarchist), whom made possible for me to easily make this theme through his awesome Omarchist app.
+Thanks to [ashen theme dev creators](https://github.com/ficd0/ashen.nvim?tab=readme-ov-file#extras)
