@@ -16,6 +16,7 @@ text = '#121212'
 [colors.normal]
 black = '#121212'
 red = '#B14242'
+#i, dotsilva, changed this red to match the legacy color
 green = '#ad4141'
 yellow = '#E49A44'
 blue = '#4A8B8B'
