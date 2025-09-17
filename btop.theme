@@ -13,10 +13,10 @@ theme[main_fg]="#D87C4A"
 theme[title]="#D87C4A"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#ff9c9c"
+theme[hi_fg]="#4A8B8B"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#ff9c9c"
+theme[selected_bg]="#4A8B8B"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#D87C4A"
@@ -44,40 +44,40 @@ theme[div_line]="#ad4141"
 
 # Temperature graph colors
 theme[temp_start]="#e5e5e5"
-theme[temp_mid]="#ff9c9c"
+theme[temp_mid]="#4A8B8B"
 theme[temp_end]="#ad4141"
 
 # CPU graph colors
 theme[cpu_start]="#D87C4A"
-theme[cpu_mid]="#ff9c9c"
+theme[cpu_mid]="#4A8B8B"
 theme[cpu_end]="#ad4141"
 
 # Mem/Disk free meter
 theme[free_start]="#e5e5e5"
-theme[free_mid]="#ff9c9c"
+theme[free_mid]="#4A8B8B"
 theme[free_end]="#ad4141"
 
 # Mem/Disk cached meter
 theme[cached_start]="#e5e5e5"
-theme[cached_mid]="#ff9c9c"
+theme[cached_mid]="#4A8B8B"
 theme[cached_end]="#ad4141"
 
 # Mem/Disk available meter
 theme[available_start]="#e5e5e5"
-theme[available_mid]="#ff9c9c"
+theme[available_mid]="#4A8B8B"
 theme[available_end]="#ad4141"
 
 # Mem/Disk used meter
 theme[used_start]="#e5e5e5"
-theme[used_mid]="#ff9c9c"
+theme[used_mid]="#4A8B8B"
 theme[used_end]="#ad4141"
 
 # Download graph colors
 theme[download_start]="#e5e5e5"
-theme[download_mid]="#ff9c9c"
+theme[download_mid]="#4A8B8B"
 theme[download_end]="#ad4141"
 
 # Upload graph colors
 theme[upload_start]="#e5e5e5"
-theme[upload_mid]="#ff9c9c"
+theme[upload_mid]="#4A8B8B"
 theme[upload_end]="#ad4141"
