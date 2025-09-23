@@ -14,7 +14,7 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
 
 # Featuring
 
-Minimal borders and border radius to increase screen use efficiency.
+Comfortable, but not excessive borders and border radius to increase screen use efficiency.
 Red, orange, oil blue, dark gray and light gray color palette.
 
 # Extras
