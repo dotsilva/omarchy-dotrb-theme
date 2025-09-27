@@ -19,6 +19,10 @@ Red, orange, oil blue, dark gray and light gray color palette.
 
 # Extras
 
+[The Ruby logo is Copyright © 2006, Yukihiro Matsumoto](https://www.ruby-lang.org/en/about/logo/).
+
+It is licensed under the terms of the [Creative Commons Attribution-ShareAlike 2.5 License agreement](https://creativecommons.org/licenses/by-sa/2.5/).
+
 You can install the waybar that is in the preview [here, its the 1.5 version](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar).
 
 # Credits
