@@ -1,6 +1,6 @@
 # dotrb
 
-<img width="1921" height="1081" alt="preview" src="https://github.com/user-attachments/assets/8f0218ce-13d8-44e7-9ce5-d7674243d42b" />
+![Image](https://github.com/dotsilva/omarchy-dotrb-theme/blob/8fbdc273b1ca2773422b84dca588a540b7863d2f/preview.png)
 
 
 An Omarchy theme featuring Ruby language references, heavily inspired in [ashen neovim theme](https://github.com/ficd0/ashen.nvim?tab=readme-ov-file#extras).
