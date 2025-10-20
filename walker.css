@@ -10,7 +10,7 @@
 @define-color border #B14242;
 @define-color foreground #e1e1e1;
 @define-color background #1a1a1a;
-@define-color hover #949494;
+@define-color hover #484848;
 
 window {
   /* keep default size, no background needed here */
